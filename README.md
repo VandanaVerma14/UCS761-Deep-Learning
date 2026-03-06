@@ -1,6 +1,6 @@
 # UCS761 – Deep Learning Lab Assignments
 
-**Name:** Vandana 
+**Name:** Vandana Verma
 **Roll Number:** 102303443
 **Group:** 3C33
 
